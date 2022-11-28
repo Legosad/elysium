@@ -486,9 +486,6 @@ h1 span {
     padding: 5rem 0;
   }
 }
-.clients {
-  padding: 5rem;
-}
 .clients__icons {
   display: flex;
   width: 100%;
@@ -497,7 +494,11 @@ h1 span {
   justify-content: center;
   align-items: center;
   gap: 2rem;
+  padding: 5rem;
   margin-bottom: 3rem;
+}
+.clients {
+  padding: 2rem;
 }
 .client__icon {
   width: 9.6rem;
@@ -528,12 +529,17 @@ h1 span {
   .clients {
     margin: auto;
     width: 70%;
+    padding: 5rem;
   }
   .client__icon {
     padding: 5rem;
     width: 11.6rem;
     height: 11.6rem;
   }
+}
+.footer {
+  padding: 2rem 5rem;
+  width: 70%;
 }
 .footer__firm {
   display: flex;
@@ -565,7 +571,7 @@ h1 span {
   padding: 0;
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 1rem;
 }
 .map ul li {
