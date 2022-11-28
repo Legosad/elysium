@@ -407,6 +407,7 @@ h1 span {
   }
   .process__content p {
     margin-top: 0;
+    font-size: 3vw;
   }
 }
 .portfolio__buttons {
