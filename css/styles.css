@@ -241,6 +241,8 @@ canvas {
 .aboutus p {
   text-align: justify;
   text-justify: distribute-all-lines;
+  padding: 2rem 5rem;
+  font-size: 3vw;
 }
 h1 {
   padding: 2rem;
