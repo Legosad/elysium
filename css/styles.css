@@ -384,11 +384,11 @@ h1 span {
 }
 .process__content h2 {
   font-weight: 500;
-  font-size: 4vw;
+  font-size: 5vw;
   margin: 1rem;
 }
 .process__content p {
-  font-size: 2vw;
+  font-size: 3vw;
   text-align: justify;
   text-justify: inter-word;
 }
@@ -407,7 +407,7 @@ h1 span {
   }
   .process__content p {
     margin-top: 0;
-    font-size: 3vw;
+    font-size: 1.5vw;
   }
 }
 .portfolio__buttons {
